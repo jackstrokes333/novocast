@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="player" extends="Scene" >
+<script type="text/brightscript" uri="player.brs"></script>
+
+<children>
+    <Video id="player" 
+            translation="[0, 0]" 
+            bufferingTextColor="0xFF000000" 
+            retrievingTextColor="0xFF000000"/>
+</children>
+</component>
